@@ -1,2 +1,2 @@
-# Data-Analytics-Projects
+# BuyMore-SalesData-Insight
 This is the repository that will contain my data analytics projects. Ready to gain arcane insights into relevant data?
